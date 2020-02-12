@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/cloudera/projects/spark-core/src/main/scala/org/training/spark/anatomy/partition/CustomPartition.scala:3:45: imported `CustomerPartitioner' is permanently hidden by definition of class CustomerPartitioner in package partition[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.training.spark.anatomy.partition.CustomerPartitioner[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

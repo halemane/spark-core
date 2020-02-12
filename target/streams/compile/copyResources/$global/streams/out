@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/sales.csv,/home/cloudera/projects/spark-core/target/scala-2.10/classes/sales.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/sales2.csv,/home/cloudera/projects/spark-core/target/scala-2.10/classes/sales2.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/sales.csv~,/home/cloudera/projects/spark-core/target/scala-2.10/classes/sales.csv~)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/data.txt,/home/cloudera/projects/spark-core/target/scala-2.10/classes/data.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/join_output,/home/cloudera/projects/spark-core/target/scala-2.10/classes/join_output)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/join_output/part-00000,/home/cloudera/projects/spark-core/target/scala-2.10/classes/join_output/part-00000)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/join_output/_SUCCESS,/home/cloudera/projects/spark-core/target/scala-2.10/classes/join_output/_SUCCESS)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/fournulldata,/home/cloudera/projects/spark-core/target/scala-2.10/classes/fournulldata)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/sample.txt,/home/cloudera/projects/spark-core/target/scala-2.10/classes/sample.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/log4j.properties,/home/cloudera/projects/spark-core/target/scala-2.10/classes/log4j.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/sales-error.csv,/home/cloudera/projects/spark-core/target/scala-2.10/classes/sales-error.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/cloudera/projects/spark-core/src/main/resources/customers.csv,/home/cloudera/projects/spark-core/target/scala-2.10/classes/customers.csv)[0m
